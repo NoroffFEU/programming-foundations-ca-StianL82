@@ -2,3 +2,17 @@ body {
 	font-family: sans-serif;
 	padding: 1em 3em;
 }
+
+
+img {
+	max-width: 300px;
+	border: 1px solid black;
+}
+
+.cars{
+	margin-bottom: 40px;
+}
+
+.features {
+	margin-bottom: 60px;
+}
